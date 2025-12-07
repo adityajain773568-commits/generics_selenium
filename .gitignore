@@ -1,0 +1,11 @@
+# Eclipse / IDE workspace and metadata
+.metadata/
+*.log
+
+# SonarLint cache
+.sonarlint/
+.sonarlint/**
+
+# OS files
+Thumbs.db
+.DS_Store
